@@ -1,4 +1,4 @@
-# Cookbook Delight
+# Cookbook
 
 Cookbook is a delightful mobile application built with React Native that serves as your ultimate companion in the kitchen. Whether you're a seasoned chef or just starting your culinary journey, Cookbook Delight offers a vast collection of mouthwatering recipes to explore and enjoy.
 
